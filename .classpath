@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/dfnrg/OneDrive - Universidad de Los Andes/Documents/8vo semestre/Infracom/Labs/Lab 4 y 5/lib/org-apache-commons-codec.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dfnrg/OneDrive - Universidad de Los Andes/Documents/8vo semestre/Infracom/Labs/Lab 4 y 5/lib/slf4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
